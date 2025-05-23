@@ -1,0 +1,18 @@
+# Ignorar directorio de compilación
+target/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de configuración de IDEs
+*.iml
+.idea/
+*.classpath
+*.project
+
+# Ignorar archivos temporales
+*.swp
+*.bak
+
+# Ignorar archivos de documentación (opcional)
+*.md
